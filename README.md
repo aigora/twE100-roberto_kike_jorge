@@ -1,10 +1,10 @@
-TRADUCTOR INGLES-ESPAÑOL
+##TRADUCTOR INGLES-ESPAÑOL
 
 Nuestro trabajo consiste en un traductor entre ambos idiomas, en el cual tienes la opción de introducir palabras en un fichero o de buscar la traduccion de una palabra que hayas introducido prevaiemnte
 
 ## Integrantes del equipo
 
-Roberto Vázquez Huerta rvhuerta
+1.Roberto Vázquez Huerta rvhuerta
 
 ## Objetivos del trabajo
 
