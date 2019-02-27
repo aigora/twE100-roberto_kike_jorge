@@ -5,6 +5,7 @@ Nuestro trabajo consiste en un traductor entre ambos idiomas, en el cual tienes 
 ## Integrantes del equipo
 
 1.Roberto Vázquez Huerta rvhuerta
+2.Jorge Merchante García jmerchanteg2019
 
 ## Objetivos del trabajo
 
