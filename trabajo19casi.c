@@ -5,7 +5,7 @@
 #include<stdlib.h>
 #define N 50
 
-typedef struct traductor{
+typedef struct {
  	char eng[N];
  	char esp[N];
  	int lleno;	
@@ -35,8 +35,9 @@ int main() {
    		printf ("Elige una opcion:\n");
       	printf ("(1) Anadir palabras al traductor.\n");
       	printf ("(2) Buscar traduccion de la palabra en el traductor.\n");
-     	 scanf ("%i", &num);
+     	scanf ("%i", &num);
      	
+     	 
   		} while (num < 1 || num > 2);
  
  	switch (num) {
@@ -57,7 +58,8 @@ int main() {
  		
  		if (palabra!='s' && palabra!='S' && palabra!='n' && palabra!='N')  {
  			
- 			printf("Error, introduce la opcion bien .\n");
+ 			printf("Error la respuesta no es valida\n");
+ 			break;
 		 }
 		}while(palabra!='s' && palabra!='S' && palabra!='n' && palabra!='N');
 		
