@@ -1,0 +1,9 @@
+fire,fuego
+car,coche
+pen,boligrafo
+light,luz
+boat,barco
+table,mesa
+truck,camion
+pencil,lapiz
+book,libro
