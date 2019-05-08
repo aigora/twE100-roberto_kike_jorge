@@ -11,3 +11,4 @@ hand,mano
 boat,barco
 paper,hoja
 onion,cebolla
+mouse,raton
